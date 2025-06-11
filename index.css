@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(196, 176, 159)
+}
+h1{
+    color: #000000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    text-transform: uppercase;
+    margin-bottom: 0cqb;
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgb(172, 24, 185);
+    border-width: 0cqi;
+    border-color: black;
+}
+
+#main{
+    display: inline;
+    margin-right: 10px;
+}
+#main{
+    visibility: visible;
+
+}
